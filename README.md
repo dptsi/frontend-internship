@@ -2,7 +2,7 @@
 
 Coding challenge ini bertujuan untuk menguji kemampuan Anda dalam mengembangkan aplikasi web frontend dengan menggunakan **Next.js**, **TypeScript**, **Chakra UI**, dan beberapa library lainnya.
 
-Peserta challenge hanya perlu melakukan **commit** dan **push** ke repositori ini. Waktu pengerjaan adalah selama tiga hari, mulai dari Senin, 4 Maret 2023 hingga **Rabu**, 6 Maret 2023 pukul **23:59**. Setelah melewati batas waktu, peserta tidak dapat lagi melakukan **push** ke repo.
+Anda perlu melakukan **commit** dan **push** ke repositori ini selama pengerjaan. Waktu pengerjaan adalah selama tiga hari, mulai dari Senin, 4 Maret 2023 hingga **Rabu**, 6 Maret 2023 pukul **23:59**. Setelah melewati batas waktu, peserta tidak dapat lagi melakukan **push** ke repo.
 
 ## Deskripsi
 Anda diminta untuk membuat sebuah aplikasi web yang berfungsi sebagai platform berita online. Aplikasi ini memiliki beberapa fitur, antara lain:
